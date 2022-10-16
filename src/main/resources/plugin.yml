@@ -1,0 +1,6 @@
+name: Sirisuk_onJoinLobby
+version: '${project.version}'
+main: com.sirisuk.sirisuk_onjoinlobby.Main
+api-version: 1.18
+authors: [ Sirisuk_Tharntham ]
+softdepend: [PlaceholderAPI] # If your plugin requires PlaceholderAPI, to work, use this.
